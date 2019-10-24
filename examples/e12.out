@@ -1,0 +1,4 @@
+CHECK(subexthi,passwds,r)
+  sroot ↝ sexternal
+¬CHECK(subexthi,passwds,r)
+  <none>

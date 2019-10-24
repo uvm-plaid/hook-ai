@@ -1,0 +1,5 @@
+μ h. ((( (CHECK(subexthi,passwds,r); sroot ↝ α) 
+       | (sexternal ↝ α))
+     ; α ↝ sexternal)
+     ; h)
+
